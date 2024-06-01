@@ -1,0 +1,12 @@
+
+A set of projects I worked on during my academic studies (2007-2013):
+
+
+1. A PetriNet (Place-Transition Net) Editor developped in C++/Qt and Boost library -> PTNET-Editor/README
+2. A game developped in C/SDL and Sun RPC -> SDL-PPONG/README
+3. Inline assembly code examples -> inlineasm-src/README
+4. The first but umpublished linux kernel -> linux-0.00/README
+5. The first Linux kernel (called Freex by Linus) -> linux-0.01-remake/README
+6. Read -> timeros/README
+
+in each directory there is a seperate git repo ... 
